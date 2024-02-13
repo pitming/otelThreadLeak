@@ -2,3 +2,5 @@
 Evs.Phoenix.Utils.Opentelemetry.ThreadLeak.App/Properties/launchSettings.json
 Evs.Phoenix.Utils.Opentelemetry.ThreadLeak.App/bin
 Evs.Phoenix.Utils.Opentelemetry.ThreadLeak.App/obj
+.vs/Evs.Phoenix.Utils.OpenTelemetry.ThreadLeak.App/config/applicationhost.config
+.vs/Evs.Phoenix.Utils.OpenTelemetry.ThreadLeak.App/v17
